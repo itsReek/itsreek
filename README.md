@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Gaurav
 
 ## 💻 About Me
+- 🎓 Third-year student at **Techno India University**
+- 📚 Pursuing **B.Tech in CSE (AI & ML)**
 - 👨‍💻 Full-Stack Web Developer (MERN Stack)
 - 🌱 Currently learning advanced JavaScript and backend development
 - 💡 Passionate about building real-world projects
