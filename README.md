@@ -13,7 +13,7 @@
 **Backend:** Node.js, Express.js, MongoDB, REST APIs  
 **Languages:** JavaScript, Python  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, MongoDB Atlas  
-**Concepts:** OOP, DSA (Basics)
+**Concepts:** OOPS,DSA, OS, DBMS
 
 ---
 
