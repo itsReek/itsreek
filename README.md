@@ -39,8 +39,8 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 📧 **Email:** gauravghosh0808@gmail.com
 🔗 **LinkedIn:** https://www.linkedin.com/in/gaurav-ghosh-616b31296  
-🌐 **Portfolio:** 
-🐦 **Twitter (X): https://x.com/GGhosh528634?t=iF-RtyFEigC2LLGjw5x0DQ&s=09
+🌐 **Portfolio**:https://portfolio-omega-eosin-37.vercel.app/
+🐦 **Twitter(X)**: https://x.com/GGhosh528634?t=iF-RtyFEigC2LLGjw5x0DQ&s=09
 
 ---
 
