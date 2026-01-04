@@ -4,18 +4,18 @@
 - 🎓 Third-year student at **Techno India University**
 - 📚 Pursuing **B.Tech in CSE (AI & ML)**
 - 👨‍💻 Full-Stack Web Developer (MERN Stack)
-- 🌱 Currently learning advanced JavaScript and backend development
+- 🌱 Currently learning advanced AIML and cloud technologies
 - 💡 Passionate about building real-world projects
 - 🚀 Goal: Become an industry-ready software engineer
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
+**Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-**Languages:** JavaScript, Python  
+**Languages:** JavaScript, Python, c++  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, MongoDB Atlas  
-**Concepts:** OOPS,DSA, OS, DBMS
+**Concepts:** OOPS, DSA, OS, DBMS, CN
 
 ---
 
