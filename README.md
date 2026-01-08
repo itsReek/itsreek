@@ -33,8 +33,10 @@ I enjoy building **real-world applications**, exploring **AI/ML**, and strengthe
 
 ### 🧑‍💻 Programming Languages
 - JavaScript  
-- Python  
-- C++  
+- Python
+- C
+- C++
+- Java
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
@@ -66,23 +68,6 @@ A responsive personal portfolio showcasing skills, projects, and contact informa
 📧 **Email:** gauravghosh0808@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gaurav-ghosh-616b31296  
 🐦 **Twitter (X):** https://x.com/GGhosh528634?t=iF-RtyFEigC2LLGjw5x0DQ&s=09  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsReek&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsReek&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsReek&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
