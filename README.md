@@ -60,7 +60,6 @@ A Chrome extension that uses **AI** to instantly summarize web pages and article
 ### 🔹 Portfolio Website
 A responsive personal portfolio showcasing skills, projects, and contact information.
 
-🌐 **Portfolio:** https://portfolio-omega-eosin-37.vercel.app/
 
 ---
 
