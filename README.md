@@ -48,6 +48,9 @@ I enjoy building **real-world applications**, exploring **AI/ML**, and strengthe
 
 ## 🚀 Projects
 
+### 🔹 AI Fitness Voice Agent (Next.js + AI + Voice) 
+Built an AI-powered fitness voice assistant using Vapi and Gemini AI, with Clerk authentication and Convex real-time data, delivering personalized workout and diet plans through a responsive UI.
+
 ### 🔹 Product Store
 A full-stack product management application featuring product listing, creation, updating, and deletion using the MERN stack.
 
