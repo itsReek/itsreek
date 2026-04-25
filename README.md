@@ -1,78 +1,105 @@
 # 👋 Hi, I'm Gaurav Ghosh  
 
-🎓 B.Tech CSE (AI & ML) @ Techno India University  
-💻 Aspiring Software Engineer | Full Stack Developer (MERN)  
-⚡ C++ (DSA) | Backend Systems | Problem Solver  
+🎓 B.Tech CSE (AI & ML) Student @ Techno India University  
+💻 Software Engineer | Full Stack Developer (MERN)  
+⚡ Strong in C++ (DSA) | Backend & Systems Enthusiast  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I’m a third-year Computer Science student focused on building **scalable backend systems, real-time applications, and AI-powered tools**.
+Passionate and growth-driven Computer Science student focused on building **scalable systems, full-stack applications, and AI-powered solutions**.
 
-- 💻 Strong in **C++ (Data Structures & Algorithms)**
-- 🌐 Build **full-stack applications using MERN**
-- ⚙️ Experience in **real-time systems & API design**
-- 🧠 Exploring **System Design, AI/ML & Vector Databases**
-- 🎯 Actively preparing for **Software Engineering roles**
+- 🌐 Full Stack Developer (**MERN Stack**)  
+- 💻 Strong in **C++ (Data Structures & Algorithms)**  
+- ⚙️ Skilled in **Backend Development & API Design**  
+- 🧠 Exploring **AI/ML, System Design & Vector Databases**  
+- 🚀 Building **real-world, production-level projects**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Languages:** C++, Python, Java, C  
-**Frontend:** React.js, HTML, CSS, JavaScript  
+**Languages:** C++, JavaScript, C, Python (Basic), Java (Basic)  
+
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+
 **Backend:** Node.js, Express.js  
+
 **Database:** MongoDB  
-**Core CS:** DSA, OOP, DBMS, OS, CN, System Design  
-**Tools:** Git, Postman, Thunder Client, MongoDB Atlas, VS Code, Ollama  
+
+**Core Concepts:** DSA, OOP, DBMS, OS, CN, REST APIs, Authentication  
+
+**Tools:** Git, GitHub, VS Code, Postman, Thunder Client, MongoDB Atlas, Ollama  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects  
 
-### 🔥 Vector Database Engine (C++)
-- Built a **high-performance vector search engine**
-- Implemented **HNSW, KD-Tree & Brute Force algorithms**
-- Achieved **optimized search complexity (~O(log N))**
-- Integrated **RAG pipeline using local LLM (Ollama)**
-- Developed **REST APIs + basic UI for querying**
+### 🔥 Vector Database Engine (C++)  
+A high-performance semantic search system built from scratch.  
 
----
+**Key Features:**  
+- 🚀 Implemented **HNSW, KD-Tree & Brute Force algorithms**  
+- 🔍 Built **vector-based semantic search engine**  
+- 🧠 Integrated **RAG pipeline using local LLM (Ollama)**  
+- ⚡ Achieved **optimized search complexity (~O(log N))**  
+- 🌐 Developed **REST APIs + Web interface**  
 
-### 📈 Zerodha Clone (Full Stack)
-- Developed a **trading platform clone** with full workflow
-- Implemented **secure authentication (JWT)**
-- Built **portfolio tracking & order management system**
-- Designed **scalable backend with REST architecture**
+**Tech Used:** C++, APIs, Vector Embeddings, Ollama  
 
 ---
 
-### 💬 Real-Time Chat Application
-- Engineered a **low-latency real-time chat system**
-- Used **Socket.IO for bidirectional communication**
-- Designed **modular backend using Flask**
-- Handled **multiple users & concurrent messaging**
+### 📈 Zerodha Clone (Full Stack Trading Platform)  
+A full-stack stock trading platform inspired by real-world systems.  
+
+**Key Features:**  
+- 🔐 Secure **authentication system (JWT)**  
+- 📊 Interactive **trading dashboard UI**  
+- 💼 Portfolio & **order management system**  
+- 🔁 Complete **CRUD operations**  
+- 📱 Fully **responsive design**  
+
+**Tech Used:** React.js, Node.js, Express.js, MongoDB  
 
 ---
 
-### 🤖 AI Chrome Extension
-- Built an **AI-powered content summarizer**
-- Integrated **Gemini API for text processing**
-- Improved **reading efficiency for long content**
-- Focused on **lightweight and fast UX**
+### 💬 Real-Time Chat Application  
+A scalable real-time communication system.  
+
+**Key Features:**  
+- ⚡ **Live messaging using Socket.IO**  
+- 🔄 Real-time bidirectional communication  
+- 🧩 Modular backend using **Flask**  
+- 👥 Supports **multiple concurrent users**  
+
+**Tech Used:** Flask, Socket.IO  
 
 ---
 
-## 🧠 What I’m Currently Learning
+### 🤖 AI Chrome Extension  
+An AI-powered browser extension for content summarization.  
 
-- Advanced **System Design**
-- **Backend scaling & architecture patterns**
-- **Vector databases & AI systems**
+**Key Features:**  
+- 🧠 Integrated **Gemini API**  
+- 📄 Summarizes long-form content instantly  
+- ⚡ Lightweight & fast user experience  
+
+**Tech Used:** JavaScript, APIs  
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What I Focus On  
+
+- Writing **clean, scalable & maintainable code**  
+- Building **real-world full-stack applications**  
+- Designing **efficient backend systems**  
+- Exploring **AI + system-level engineering**  
+- Continuous learning & problem solving  
+
+---
+
+## 📫 Connect With Me  
 
 📧 gauravghosh0808@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/gaurav-ghosh-616b31296  
@@ -80,4 +107,4 @@ I’m a third-year Computer Science student focused on building **scalable backe
 
 ---
 
-⭐ *Open to internships & Software Engineering opportunities*
+⭐ *Open to internships, collaborations, and Software Engineering opportunities*
