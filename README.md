@@ -61,9 +61,13 @@ Third-year Computer Science (AI/ML) student with strong problem-solving skills a
 
 ---
 
+## 📊 GitHub Stats
 
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
 ---
 
@@ -75,4 +79,4 @@ Third-year Computer Science (AI/ML) student with strong problem-solving skills a
 
 ---
 
-⭐ *If you find my work interesting, feel free to connect or explore my repositories.* same add some more pictures of streaks 
+⭐ *If you find my work interesting, feel free to connect or explore my repositories.*
