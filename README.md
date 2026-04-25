@@ -1,73 +1,74 @@
 # 👋 Hi, I'm Gaurav Ghosh  
 
 🎓 B.Tech CSE (AI & ML) @ Techno India University  
-💻 Software Engineer | Full Stack Developer (MERN)  
-⚡ Strong in C++ (DSA) | Backend & Systems Enthusiast  
+💻 Aspiring Software Engineer | Full Stack Developer (MERN)  
+⚡ C++ (DSA) | Backend Systems | Problem Solver  
 
 ---
 
 ## 🚀 About Me
 
-Third-year Computer Science (AI/ML) student with strong problem-solving skills and experience building scalable systems, full-stack applications, and real-time software.
+I’m a third-year Computer Science student focused on building **scalable backend systems, real-time applications, and AI-powered tools**.
 
 - 💻 Strong in **C++ (Data Structures & Algorithms)**
-- 🌐 Full Stack Developer (**MERN Stack**)
-- ⚙️ Built **real-time systems & scalable backend applications**
-- 🧠 Interested in **System Design, AI/ML, and Vector Databases**
-- 🚀 Preparing for **Software Engineering roles**
+- 🌐 Build **full-stack applications using MERN**
+- ⚙️ Experience in **real-time systems & API design**
+- 🧠 Exploring **System Design, AI/ML & Vector Databases**
+- 🎯 Actively preparing for **Software Engineering roles**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++ (Strong), Python (Basic), Java (Basic), C  
+**Languages:** C++, Python, Java, C  
 **Frontend:** React.js, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**Concepts:** DSA, OOP, DBMS, OS, CN, System Design  
-**Tools:** Git, Postman, MongoDB Atlas, VS Code, Ollama  
+**Core CS:** DSA, OOP, DBMS, OS, CN, System Design  
+**Tools:** Git, Postman, Thunder Client, MongoDB Atlas, VS Code, Ollama  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔥 Vector Database (C++) ⭐
-- Implemented **HNSW, KD-Tree, and Brute Force search**
-- Built **semantic search system with vector embeddings**
+### 🔥 Vector Database Engine (C++)
+- Built a **high-performance vector search engine**
+- Implemented **HNSW, KD-Tree & Brute Force algorithms**
+- Achieved **optimized search complexity (~O(log N))**
 - Integrated **RAG pipeline using local LLM (Ollama)**
-- Developed **REST API + Web UI**
-- Optimized search to **O(log N)** complexity  
+- Developed **REST APIs + basic UI for querying**
 
 ---
 
 ### 📈 Zerodha Clone (Full Stack)
-- Built full-stack trading platform with **authentication (JWT)**
-- Developed **dashboard, order flow & portfolio system**
-- Designed **scalable backend with REST APIs**
+- Developed a **trading platform clone** with full workflow
+- Implemented **secure authentication (JWT)**
+- Built **portfolio tracking & order management system**
+- Designed **scalable backend with REST architecture**
 
 ---
 
 ### 💬 Real-Time Chat Application
-- Built **real-time messaging system**
-- Implemented **Socket.IO for live communication**
-- Used **Flask backend with modular architecture**
+- Engineered a **low-latency real-time chat system**
+- Used **Socket.IO for bidirectional communication**
+- Designed **modular backend using Flask**
+- Handled **multiple users & concurrent messaging**
 
 ---
 
 ### 🤖 AI Chrome Extension
-- Developed **AI-based summarizer**
-- Integrated **Gemini API**
-- Improved **content consumption efficiency**
+- Built an **AI-powered content summarizer**
+- Integrated **Gemini API for text processing**
+- Improved **reading efficiency for long content**
+- Focused on **lightweight and fast UX**
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I’m Currently Learning
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+- Advanced **System Design**
+- **Backend scaling & architecture patterns**
+- **Vector databases & AI systems**
 
 ---
 
@@ -79,4 +80,4 @@ Third-year Computer Science (AI/ML) student with strong problem-solving skills a
 
 ---
 
-⭐ *If you find my work interesting, feel free to connect or explore my repositories.*
+⭐ *Open to internships & Software Engineering opportunities*
