@@ -142,9 +142,9 @@ An intelligent browser extension for content summarization.
 
 📧 Email: [gauravghosh0808@gmail.com](mailto:gauravghosh0808@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/gaurav-ghosh-616b31296
+💼 LinkedIn: https://www.linkedin.com/in/gaurav-ghosh-616b31296
 
-🐦 X (Twitter): x.com/GGhosh528634
+🐦 X (Twitter): https://x.com/GGhosh528634
 
 ---
 
