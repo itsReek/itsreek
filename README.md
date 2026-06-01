@@ -1,110 +1,151 @@
-# 👋 Hi, I'm Gaurav Ghosh  
+# 👋 Hi, I'm Gaurav Ghosh
 
-🎓 B.Tech CSE (AI & ML) Student @ Techno India University  
-💻 Software Engineer | Full Stack Developer (MERN)  
-⚡ Strong in C++ (DSA) | Backend & Systems Enthusiast  
+### Software Engineer | Full Stack Developer | Open Source Contributor
 
----
+🎓 B.Tech in Computer Science & Engineering (AI & ML) at Techno India University
 
-## 🚀 About Me  
+💻 Passionate about building scalable applications, backend systems, AI-powered products, and solving complex problems using efficient algorithms.
 
-Passionate and growth-driven Computer Science student focused on building **scalable systems, full-stack applications, and AI-powered solutions**.
-
-- 🌐 Full Stack Developer (**MERN Stack**)  
-- 💻 Strong in **C++ (Data Structures & Algorithms)**  
-- ⚙️ Skilled in **Backend Development & API Design**  
-- 🧠 Exploring **AI/ML, System Design & Vector Databases**  
-- 🚀 Building **real-world, production-level projects**  
+🚀 **Contributor at GirlScript Summer of Code (GSSoC)** | Open Source Enthusiast
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-**Languages:** C++, JavaScript, C, Python (Basic), Java (Basic)  
+I am a Computer Science student with a strong interest in Software Engineering, Backend Development, Full Stack Applications, and AI-powered Systems. I enjoy transforming ideas into real-world products while focusing on performance, scalability, and clean architecture.
 
-**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+### What I Bring
 
-**Backend:** Node.js, Express.js  
-
-**Database:** MongoDB  
-
-**Core Concepts:** DSA, OOP, DBMS, OS, CN, REST APIs, Authentication  
-
-**Tools:** Git, GitHub, VS Code, Postman, Thunder Client, MongoDB Atlas, Ollama  
-
----
-
-## 🚀 Featured Projects  
-
-### 🔥 Vector Database Engine (C++)  
-A high-performance semantic search system built from scratch.  
-
-**Key Features:**  
-- 🚀 Implemented **HNSW, KD-Tree & Brute Force algorithms**  
-- 🔍 Built **vector-based semantic search engine**  
-- 🧠 Integrated **RAG pipeline using local LLM (Ollama)**  
-- ⚡ Achieved **optimized search complexity (~O(log N))**  
-- 🌐 Developed **REST APIs + Web interface**  
-
-**Tech Used:** C++, APIs, Vector Embeddings, Ollama  
+* 🌐 Full Stack Development using the MERN Stack
+* ⚙️ Backend Engineering & REST API Development
+* 💻 Strong foundation in C++ and Data Structures & Algorithms
+* 🧠 Exploring AI/ML, RAG Systems, Vector Databases & System Design
+* 🔓 Open Source Contributor (GSSoC)
+* 🚀 Passionate about building production-grade applications
 
 ---
 
-### 📈 Zerodha Clone (Full Stack Trading Platform)  
-A full-stack stock trading platform inspired by real-world systems.  
+## 🛠 Tech Stack
 
-**Key Features:**  
-- 🔐 Secure **authentication system (JWT)**  
-- 📊 Interactive **trading dashboard UI**  
-- 💼 Portfolio & **order management system**  
-- 🔁 Complete **CRUD operations**  
-- 📱 Fully **responsive design**  
+### Languages
 
-**Tech Used:** React.js, Node.js, Express.js, MongoDB  
+C++, JavaScript, C, Python, Java
 
----
+### Frontend
 
-### 💬 Real-Time Chat Application  
-A scalable real-time communication system.  
+React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 
-**Key Features:**  
-- ⚡ **Live messaging using Socket.IO**  
-- 🔄 Real-time bidirectional communication  
-- 🧩 Modular backend using **Flask**  
-- 👥 Supports **multiple concurrent users**  
+### Backend
 
-**Tech Used:** Flask, Socket.IO  
+Node.js, Express.js
 
----
+### Database
 
-### 🤖 AI Chrome Extension  
-An AI-powered browser extension for content summarization.  
+MongoDB
 
-**Key Features:**  
-- 🧠 Integrated **Gemini API**  
-- 📄 Summarizes long-form content instantly  
-- ⚡ Lightweight & fast user experience  
+### Core CS
 
-**Tech Used:** JavaScript, APIs  
+Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, System Design
+
+### Tools & Platforms
+
+Git, GitHub, VS Code, Postman, Thunder Client, MongoDB Atlas, Ollama
 
 ---
 
-## 🎯 What I Focus On  
+## 🚀 Featured Projects
 
-- Writing **clean, scalable & maintainable code**  
-- Building **real-world full-stack applications**  
-- Designing **efficient backend systems**  
-- Exploring **AI + system-level engineering**  
-- Continuous learning & problem solving  
+### 🔥 Vector Database Engine (C++)
+
+Built a high-performance semantic search engine from scratch with modern retrieval techniques.
+
+#### Highlights
+
+* Implemented HNSW, KD-Tree, and Brute Force search algorithms
+* Developed vector-based semantic search capabilities
+* Integrated Retrieval-Augmented Generation (RAG) with Ollama
+* Optimized search complexity for fast retrieval
+* Exposed functionality through REST APIs and a web interface
+
+**Tech:** C++, Vector Embeddings, REST APIs, Ollama
 
 ---
 
-## 📫 Connect With Me  
+### 📈 Zerodha Clone – Full Stack Trading Platform
 
-📧 gauravghosh0808@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gaurav-ghosh-616b31296  
-🐦 Twitter (X): https://x.com/GGhosh528634  
+A full-stack trading platform inspired by modern brokerage systems.
+
+#### Highlights
+
+* JWT-based secure authentication
+* Portfolio and order management
+* Interactive trading dashboard
+* Complete CRUD functionality
+* Responsive user interface
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
-⭐ *Open to internships, collaborations, and Software Engineering opportunities*
+### 💬 Real-Time Chat Application
+
+A scalable communication platform supporting live interactions.
+
+#### Highlights
+
+* Real-time messaging using Socket.IO
+* Bidirectional communication architecture
+* Multi-user support
+* Modular backend implementation
+
+**Tech:** Flask, Socket.IO
+
+---
+
+### 🤖 AI Chrome Extension
+
+An intelligent browser extension for content summarization.
+
+#### Highlights
+
+* Gemini API integration
+* Instant article and content summarization
+* Lightweight and responsive experience
+
+**Tech:** JavaScript, Gemini API
+
+---
+
+## 🏆 Open Source
+
+### GirlScript Summer of Code (GSSoC)
+
+* Selected Contributor at GSSoC
+* Contributed to open-source projects through issue resolution, bug fixes, and feature development
+* Collaborated with maintainers and developers in a large-scale community-driven environment
+* Gained practical experience with Git workflows, code reviews, and project collaboration
+
+---
+
+## 🎯 Interests
+
+* Backend Engineering
+* Software Development
+* System Design
+* Artificial Intelligence
+* Open Source
+* Scalable Systems
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [gauravghosh0808@gmail.com](mailto:gauravghosh0808@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/gaurav-ghosh-616b31296
+
+🐦 X (Twitter): x.com/GGhosh528634
+
+---
+
+⭐ Open to Software Engineering Internships, Full Stack Development Opportunities, Open Source Collaborations, and Backend Engineering Roles.
