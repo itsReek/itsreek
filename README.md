@@ -130,7 +130,7 @@ A full-stack MERN application for managing products with complete CRUD functiona
 
 - Selected as an Open Source Contributor
 - Contributed through bug fixes and feature development
-- Collaborated with maintainers using Git and GitHub workflows
+- Collaborating with maintainers using Git and GitHub workflows
 - Improved real-world software development and collaboration skills
 
 ---
